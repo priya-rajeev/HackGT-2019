@@ -1,0 +1,71 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+        background-color: antiquewhite;
+        font-family: "Open Sans", sans-serif;
+        padding: 5px 25px;
+        font-size: 18px;
+        margin: 0;
+        color: #444;
+}
+
+h1 {
+        font-family: "Merriweather", serif;
+        font-size: 20px;
+}
+
+#pika{
+        border-style: dotted;
+        border-radius: 25%;
+        overlayColor: 'white';
+}
+
+#intro {
+        font-size: 1em;
+}
+
+#about {
+        text-align: center;
+}
+
+#fancy {
+        color: #767D92;
+        text-decoration: underline;
+}
+
+#Nemo {
+    font-size: 30px;
+    /*text-align: center;*/
+}
+
+#Aladdin {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Frozen {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: center;
+    color: #fffaf5;
+}
+
+#PrincessandtheFrog {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: center;
+    color: aquamarine;
+}
+
+
+
